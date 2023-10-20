@@ -149,7 +149,7 @@ function Profile() {
           onChange={handleChange} 
         />
         <input 
-          type="email" 
+          type="email"  
           placeholder="email" 
           defaultValue={currentUser.email}
           className='border p-3 rounded-lg' 
